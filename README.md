@@ -1,3 +1,4 @@
 # fisrt_project
 this is my first git repo
-Author - Rabbi
+</br>
+<h1>Author</h1> <strong> - Rabbi<strong/>
